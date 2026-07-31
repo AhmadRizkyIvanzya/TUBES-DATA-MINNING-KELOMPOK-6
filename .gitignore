@@ -1,0 +1,24 @@
+# Ignore dataset files
+creditcard.csv
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Ignore environment folders
+env/
+venv/
+.env
+.venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore pip logs or other temporary setup outputs
+0.13.2
+prepare_eda_data.py
